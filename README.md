@@ -21,6 +21,13 @@ Type " npm install " inside the client directory ( Download Front-end Dependenci
 - npm run frontend : Run the frontend
 - npm run backend: Run the backend
 
+
+File | Description 
+---- | ----------- 
+[client](./client) | Front-end folder
+[server](./server) | Back-end folder
+
+
 ## Authors
 
-Mercy Resiato Laitete
+- [Mercy Resiato](https://github.com/resiato)
