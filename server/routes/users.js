@@ -4,7 +4,8 @@ const { User } = require("../models/User");
 const { Product } = require("../models/Product");
 const { Payment } = require("../models/Payment");
 const { auth } = require("../middleware/auth");
-const { request } = require("express");
+
+const { async } = require("async");
 
 //=================================
 //             User

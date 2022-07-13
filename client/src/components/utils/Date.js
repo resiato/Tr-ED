@@ -7,6 +7,6 @@ export const getFooterCopy = (isIndex) => {
   if (isIndex === true) {
     return "Tr-ED";
   } else {
-    return "Tr-ED";
+    return "Tr-ED Dashboard";
   }
 };
